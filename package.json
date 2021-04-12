@@ -1,3 +1,28 @@
 {
-  "type": "module"
+  "name": "hexlet-test-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "__tests__"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saladNights/hexlet-test-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saladNights/hexlet-test-course/issues"
+  },
+  "homepage": "https://github.com/saladNights/hexlet-test-course#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.1",
+    "@babel/preset-env": "^7.10.1",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.6.3"
+  }
 }
