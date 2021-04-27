@@ -7,7 +7,7 @@
     "test": "__tests__"
   },
   "scripts": {
-    "test": "test"
+    "test": "npx jest --bail"
   },
   "repository": {
     "type": "git",
